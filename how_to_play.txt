@@ -1,0 +1,11 @@
+Simon Game: Test your memory
+
+* Select the 'POWER' check-box.
+* Click on 'Start'.
+* Count displays the level the player is at. The game begins at count = 1. 
+* The panel contains four colors which light up in a specific order. (The order, however, does not remain the same on each turn)
+* The player has to click the colors in the exact same order to advance to the next level.
+* If the strict mode is on, the count resets back to 1 if the player fails to reproduce the exact same order.
+* If the strict mode if off and the player fails to reproduce the order, clicking on the start button resumes the game at the same level. 
+* The player wins the game after clearing level 5.
+
